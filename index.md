@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 {:blurb}
-	*Software Engineering Club at International University
-	The club is to provide hands-on experiences for IU students
+# Software Engineering Club at International University
+The club is to provide hands-on experiences for IU students
 	
 We are working on various topics from engineering to research. Currently, our projects are
 
